@@ -27,6 +27,12 @@
         "text": "Whisper"
       },
       {
+        "selectedIconPath": "images/plus-fill.png",
+        "iconPath": "images/plus.png",
+        "pagePath": "pages/post/post",
+        "text": "Post Message"
+      },
+      {
         "selectedIconPath": "images/user-fill.png",
         "iconPath": "images/user.png",
         "pagePath": "pages/me/me",
